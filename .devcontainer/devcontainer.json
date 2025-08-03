@@ -38,7 +38,7 @@
 				"files.exclude": {
 					"**/pxt_modules": true,
 					"**/.pxt": true
-				}
+				},
 			}
 		}
 	}
